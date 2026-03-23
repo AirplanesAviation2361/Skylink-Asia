@@ -1,0 +1,22 @@
+name": "Skylink Asia",
+  "color": "Azure blue",
+  "bgcolor": "white",
+  "aircrafts": {
+    "24": {
+      "name": "Airbus A320neo",
+      "liveries": [
+        {
+          "name": "Standard livery",
+          "texture": [
+"",
+""
+],
+ 
+          "credits": "AirplanesAviation2361"
+        }
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"      
+
+
