@@ -1,8 +1,7 @@
 # Skylink-Asia
-
-How to add the geofs livery selector
-
-	1.	Open your GitHub repo.
+📲How to add to the geofs livery selector
+ steps
+    1.	Open your GitHub repo.
 	2.	Find the airline.json.
 	3.	Click Raw.
 	4.	Copy the raw link.
