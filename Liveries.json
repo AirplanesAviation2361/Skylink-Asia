@@ -2,7 +2,7 @@
   "color": "Azure blue",
   "bgcolor": "white",
   "aircrafts": {
-    "24": {
+    "2871": {
       "name": "Airbus A320neo",
       "liveries": [
         {
@@ -19,7 +19,7 @@
             "Specular Shader",
             "Texture"      
           
-    "24": {
+    "3054": {
       "name": "Boeing 737-800",
       "liveries": [
         {
